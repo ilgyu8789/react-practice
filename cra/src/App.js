@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Item from "./components/Item";
 
-//  다수의 컴포넌트 렌더링
+//  다수의 컴포넌트 렌더링.
 const items = [
   { id: 1, name: "Notebook", checked: true },
   { id: 2, name: "Smartphone", checked: false },
